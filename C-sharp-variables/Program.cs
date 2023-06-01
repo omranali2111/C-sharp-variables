@@ -64,7 +64,7 @@ internal class Program
         Console.WriteLine(l1);
         Console.WriteLine(l2);
 
-        Console.WriteLine("hello word");
+       
 
 
 
