@@ -65,19 +65,23 @@ internal class Program
         Console.WriteLine(l2);
 
 
-        /// loops count from 1 -10
+        // loops count from 1 -10
 
         for(int i = 1; i <= 10; i++)
-        {
+        { 
             //int[] ints = new int[10];
             //ints[i] = i;
             Console.WriteLine(i);
         }
+        // count from 10-0 using while loop
+            int i1 = 10;
+            while (i1 >= 0)
+            {
+                Console.WriteLine(i1);
+                 i1--;
+            }
 
-       
-
-
-
+         
 
 
 
