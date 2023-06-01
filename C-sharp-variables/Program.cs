@@ -47,7 +47,7 @@ internal class Program
         a1=b1;
         b1=a3;
 
-
+        
         Console.WriteLine(a1);
         Console.WriteLine(b1);
 
@@ -63,6 +63,16 @@ internal class Program
 
         Console.WriteLine(l1);
         Console.WriteLine(l2);
+
+
+        /// loops count from 1 -10
+
+        for(int i = 0; i < 10; i++)
+        {
+            int[] ints = new int[10];
+            ints[i] = i;
+            Console.WriteLine(ints[i]);
+        }
 
        
 
