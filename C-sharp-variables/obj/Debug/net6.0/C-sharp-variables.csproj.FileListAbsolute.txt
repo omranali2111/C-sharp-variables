@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\code-TRA\C-sharp-variables\C-sharp-variables\obj\Debug\net6.0\C-sharp-variables.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\code-TRA\C-sharp-variables\C-sharp-variables\obj\Debug\net6.0\C-sharp-variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\code-TRA\C-sharp-variables\C-sharp-variables\obj\Debug\net6.0\C-sharp-variables.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\code-TRA\C-sharp-variables\C-sharp-variables\obj\Debug\net6.0\C-sharp-variables.AssemblyInfo.cs
+C:\Users\HP\Desktop\code-TRA\C-sharp-variables\C-sharp-variables\obj\Debug\net6.0\C-sharp-variables.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\code-TRA\C-sharp-variables\C-sharp-variables\bin\Debug\net6.0\C-sharp-variables.exe
+C:\Users\HP\Desktop\code-TRA\C-sharp-variables\C-sharp-variables\bin\Debug\net6.0\C-sharp-variables.deps.json
+C:\Users\HP\Desktop\code-TRA\C-sharp-variables\C-sharp-variables\bin\Debug\net6.0\C-sharp-variables.runtimeconfig.json
+C:\Users\HP\Desktop\code-TRA\C-sharp-variables\C-sharp-variables\bin\Debug\net6.0\C-sharp-variables.dll
+C:\Users\HP\Desktop\code-TRA\C-sharp-variables\C-sharp-variables\bin\Debug\net6.0\C-sharp-variables.pdb
+C:\Users\HP\Desktop\code-TRA\C-sharp-variables\C-sharp-variables\obj\Debug\net6.0\C-sharp-variables.dll
+C:\Users\HP\Desktop\code-TRA\C-sharp-variables\C-sharp-variables\obj\Debug\net6.0\refint\C-sharp-variables.dll
+C:\Users\HP\Desktop\code-TRA\C-sharp-variables\C-sharp-variables\obj\Debug\net6.0\C-sharp-variables.pdb
+C:\Users\HP\Desktop\code-TRA\C-sharp-variables\C-sharp-variables\obj\Debug\net6.0\C-sharp-variables.genruntimeconfig.cache
+C:\Users\HP\Desktop\code-TRA\C-sharp-variables\C-sharp-variables\obj\Debug\net6.0\ref\C-sharp-variables.dll
