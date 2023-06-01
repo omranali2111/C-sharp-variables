@@ -67,11 +67,11 @@ internal class Program
 
         /// loops count from 1 -10
 
-        for(int i = 0; i < 10; i++)
+        for(int i = 1; i <= 10; i++)
         {
-            int[] ints = new int[10];
-            ints[i] = i;
-            Console.WriteLine(ints[i]);
+            //int[] ints = new int[10];
+            //ints[i] = i;
+            Console.WriteLine(i);
         }
 
        
